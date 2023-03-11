@@ -1,8 +1,8 @@
-Tours App which created with ReactJs.
+European Players app which created with ReactJs.
 
 Click demo to try it by yourself!
 
-## Tours App Demo Link
+## European Players App Demo Link
 
 You can view the site here
 [Click Me](https://european-players.netlify.app/)
