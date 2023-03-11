@@ -5,7 +5,7 @@ Click demo to try it by yourself!
 ## Shopping Card App Demo Link
 
 You can view the site here
-[Click Me](shopping-card-design.netlify.app)
+[Click Me](https://shopping-card-design.netlify.app/)
 
 ## Topics
 
