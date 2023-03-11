@@ -1,11 +1,11 @@
-European Players app which created with ReactJs.
+Shopping Card app which created with ReactJs.
 
 Click demo to try it by yourself!
 
-## European Players App Demo Link
+## Shopping Card App Demo Link
 
 You can view the site here
-[Click Me](https://european-players.netlify.app/)
+[Click Me](shopping-card-design.netlify.app)
 
 ## Topics
 
